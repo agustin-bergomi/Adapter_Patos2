@@ -1,0 +1,3 @@
+include ':patos_adapter2'
+include ':app'
+rootProject.name = "Adapter_Patos2"
